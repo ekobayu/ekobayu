@@ -3,24 +3,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ekobayu_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ekobayu_)](https://twitter.com/ekobayu_)
 [![Instagram Badge](https://img.shields.io/badge/-@ekobayu_-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ekobayu_/)](https://instagram.com/ekobayu_)
 
-I'm SEO Specialist and Front End Engineer. Tech stack using Wordpress, ReactJs, SemanticUi, Bootstrap and Django. I also take freelance SEO to optimize keyword page one in google.
+I'm Front End Engineer and SEO Specialist. Tech stack using Wordpress, ReactJs, SemanticUi, Bootstrap and Django. I'm also take freelance SEO to optimize keyword page one in google.
 
 ## List of useful github repository
 - HTML Default Base -> [HtmlDefaultBase](https://github.com/ekobayu/HtmlDefaultBase)
 - Wordpress Default Theme -> [WordpressDefaultTheme](https://github.com/ekobayu/WordpressDefaultTheme)
 - React Default Base -> [ReactDefaultBase](https://github.com/ekobayu/ReactDefaultBase)
-
-<!--
-**ekobayu/ekobayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front End Checklist -> [FrontEndChecklist](https://github.com/ekobayu/Front-End-Performance-Checklist)
+- JS Stack from Scratch -> [JSStackFromScratch](https://github.com/ekobayu/js-stack-from-scratch)
